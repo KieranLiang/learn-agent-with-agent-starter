@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" width="960" height="440">
+  <defs>
+    <linearGradient id="s0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E8F1FF"/><stop offset="1" stop-color="#D2E4FF"/></linearGradient>
+    <linearGradient id="s1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F1EBFF"/><stop offset="1" stop-color="#E0D4FF"/></linearGradient>
+    <linearGradient id="s2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E5F7EC"/><stop offset="1" stop-color="#C9EDD7"/></linearGradient>
+    <linearGradient id="s3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF0E6"/><stop offset="1" stop-color="#FFD9BF"/></linearGradient>
+    <filter id="sh"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1F2D3D" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect x="0" y="0" width="960" height="440" rx="18" fill="#FBFCFE"/>
+  <text x="24" y="42" font-size="20" font-weight="bold" fill="#1F2D3D">14 个大单元四个阶段：拆五大开源 Harness · 读前沿论文 · 做名校原版大项目</text>
+  <polyline points="30,414 924,414" fill="none" stroke="#C5CFDB" stroke-width="3"/>
+  <polygon points="924,407 938,414 924,421" fill="#C5CFDB"/>
+
+  <rect x="20" y="64" width="222" height="324" rx="14" fill="url(#s0)" filter="url(#sh)"/>
+  <text x="34" y="92" font-size="12.5" fill="#2B6CB0" font-weight="bold">阶段一 · 单元 1–5</text>
+  <text x="34" y="118" font-size="16" fill="#1F2D3D" font-weight="bold">解剖与构建 Harness</text>
+  <text x="34" y="152" font-size="13" fill="#2C4A6E">1 Agent 全景与 Harness 范式</text>
+  <text x="34" y="180" font-size="13" fill="#2C4A6E">2 面向建造者的 LLM 最小集</text>
+  <text x="34" y="208" font-size="13" fill="#2C4A6E">3 循环、工具、编辑协议与 MCP</text>
+  <text x="34" y="236" font-size="13" fill="#2C4A6E">4 停止、审批、沙箱与安全攻防</text>
+  <text x="34" y="264" font-size="13" fill="#2C4A6E">5 上下文工程、缓存与成本优化</text>
+  <text x="34" y="346" font-size="11.5" fill="#2B6CB0" font-weight="bold">原版大项目门禁解锁：</text>
+  <text x="34" y="366" font-size="11.5" fill="#2B6CB0">Harvard Mads 1–3（Lens→Loop→Opt）</text>
+
+  <rect x="254" y="64" width="222" height="324" rx="14" fill="url(#s1)" filter="url(#sh)"/>
+  <text x="268" y="92" font-size="12.5" fill="#6B46C1" font-weight="bold">阶段二 · 单元 6–9</text>
+  <text x="268" y="118" font-size="16" fill="#1F2D3D" font-weight="bold">知识、记忆、搜索与编排</text>
+  <text x="268" y="152" font-size="13" fill="#3F2E7A">6 RAG、Agentic Search 与 Wiki</text>
+  <text x="268" y="180" font-size="13" fill="#3F2E7A">7 长期记忆、Skills 与自进化</text>
+  <text x="268" y="208" font-size="13" fill="#3F2E7A">8 规划、推理时搜索与多 Agent</text>
+  <text x="268" y="236" font-size="13" fill="#3F2E7A">9 Coding / GUI / Research / 常驻</text>
+  <text x="268" y="346" font-size="11.5" fill="#6B46C1" font-weight="bold">原版大项目门禁解锁：</text>
+  <text x="268" y="366" font-size="11.5" fill="#6B46C1">CMU HW1 / CS329Z A1 Harness</text>
+
+  <rect x="488" y="64" width="222" height="324" rx="14" fill="url(#s2)" filter="url(#sh)"/>
+  <text x="502" y="92" font-size="12.5" fill="#2F7A4B" font-weight="bold">阶段三 · 单元 10–11</text>
+  <text x="502" y="118" font-size="16" fill="#1F2D3D" font-weight="bold">评测科学与 Agentic SWE</text>
+  <text x="502" y="152" font-size="13" fill="#24573A">10 评估体系、裁判校准与 pass^k</text>
+  <text x="502" y="180" font-size="13" fill="#24573A">11 Spec、Agent-Ready 仓库、</text>
+  <text x="502" y="200" font-size="13" fill="#24573A">    分层审查与 Software Factory</text>
+  <text x="502" y="346" font-size="11.5" fill="#2F7A4B" font-weight="bold">原版大项目门禁解锁：</text>
+  <text x="502" y="366" font-size="11.5" fill="#2F7A4B">CMU HW2 / CS329Z A2 Evals</text>
+
+  <rect x="722" y="64" width="218" height="324" rx="14" fill="url(#s3)" filter="url(#sh)"/>
+  <text x="736" y="92" font-size="12.5" fill="#C05621" font-weight="bold">阶段四 · 单元 12–14</text>
+  <text x="736" y="118" font-size="16" fill="#1F2D3D" font-weight="bold">算法训练与推理系统</text>
+  <text x="736" y="152" font-size="13" fill="#7B3A10">12 数据工程、轨迹 SFT 与优化</text>
+  <text x="736" y="180" font-size="13" fill="#7B3A10">13 RLVR、GRPO 与异步 RL</text>
+  <text x="736" y="208" font-size="13" fill="#7B3A10">14 LLM 推理服务与全栈优化</text>
+  <text x="736" y="346" font-size="11.5" fill="#C05621" font-weight="bold">原版大项目门禁解锁：</text>
+  <text x="736" y="366" font-size="11.5" fill="#C05621">CMU HW3 scottyrl / Mads-Serve</text>
+</svg>
